@@ -1,0 +1,7 @@
+
+# Crypto
+/crypto/src/crypto
+
+# Nix
+.direnv
+.envrc
